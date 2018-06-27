@@ -21,6 +21,8 @@
 * Ctrl + K Ctrl + J   展开所有折叠区域代码
 
 ### 光标移动
+
+* Ctrl + ← / →        以word为单位移动光标
 * Ctrl + Alt + ↑ / ↓  生成多光标
 * Ctrl + Shift + |    匹配花括号的闭合处，跳转
 * Ctrl + Home         跳转到页头
