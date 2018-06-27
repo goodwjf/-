@@ -1,6 +1,6 @@
 Chrome DevTools
 
-### HotKey
+### Shortcuts
 
 * Ctrl + Shift + I (Mac上为 Cmd+Opt+I)打开DevTools。
 * Ctrl + Shift + J (Mac上为 Cmd+Opt+J)打开DevTools中的控制台
@@ -12,9 +12,10 @@ Chrome DevTools
 * Ctrl + Shift + F (Windows, Linux) 、 Cmd + Opt + F (Max OS X) 全局搜索
 * Ctrl + Shift + O(Windows, Linux)、Cmd + Shift + O (Mac OS X) 快速定位
 * Ctrl + L (Windows)、Cmd + L(Mac OS X)、Ctrl + G (Linux) 跳转到特定行号
-- - -
-* Errors - 只显示 console.error() 的输出
-* Warnings - 只显示 console.warn()的输出
-* Info - 只显示 console.info()的输出
-* Logs - 只显示 console.log()的输出
-* Debug - 只显示 console.timeEnd() 和 console.debug()的输出
+
+### Console
+* Errors -  console.error()
+* Warnings -  console.warn()
+* Info -  console.info()
+* Logs -  console.log()
+* Debug -  console.timeEnd() 和 console.debug()
