@@ -115,3 +115,22 @@
 * dependencies 依赖
 * emit 发送
 * alias 别名
+* Syntactic 语法
+* generate 生成
+* Lexical 词法
+* assign 分配
+* loop 循环
+* prefix 前缀
+* postfix 后缀
+* associative 联想
+* hub 枢纽
+* traverse 通过
+* Algorithms 算法
+* launch 发射
+* calibre 口径
+* Victory 胜利
+* wolf 狼
+* actual 现实
+* virtual 虚拟
+* perfect 完美
+* fake 伪造的 假的
